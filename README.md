@@ -4,11 +4,8 @@ re-creating the calculator project in Python
 ScientificCalculator (maven) 
 
 Description
-In this project your team will build a small app to function as a calculator. This app will be built in Java, and will use the topics and techniques discussed during the week.
+In this project your team will build a small app to function as a calculator. This app will be built in Python.
 
-Your team should work on this project in a single repository. Click the fork button in the top right corner to create a copy of this repository in one of your github accounts. You can go through the GitHub forking tutorial if you need additional practice with this.
-
-Then, each of the other team members should clone from the shared repository. You may want to dived the work into various classes, where each person takes responsibility for a whole class.
 
 Requirements
 Testing
