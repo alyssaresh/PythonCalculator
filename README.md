@@ -8,13 +8,17 @@ In this project your team will build a small app to function as a calculator. Th
 
 
 Requirements
+
 Testing
+
 All features must be tested with Test classes. Tests must include normal behavior, and any possible error situations. Tests must have descriptive names and should be independent of each other (running or not running one test should not influence the behavior of any other test).
 
 Documentation
+
 You must produce UML diagrams for your program. All classes (excluding test classes) must be included in the UML class diagrams. Each class should have a UML box, with variables and a list of methods.
 
 Core Features
+
 All calculators should have the following features:
 
 A state, representing the value currently displayed on the calculator (default 0) *
