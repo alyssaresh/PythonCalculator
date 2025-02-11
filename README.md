@@ -2,6 +2,7 @@
 re-creating the calculator project in Python
 
 ScientificCalculator (maven) 
+<a href="https://lucid.app/lucidchart/97fac3af-0824-4f72-b818-2256198b65ea/edit?viewport_loc=-1051%2C-827%2C2364%2C1046%2C0_0&invitationId=inv_3c21faf0-b29c-476f-b706-c0ce044a68f1"> current UML</a>
 
 Description
 In this project your team will build a small app to function as a calculator. This app will be built in Python.
