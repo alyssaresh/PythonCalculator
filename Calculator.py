@@ -22,4 +22,4 @@ elif operation == '/':
     print(number_1 / number_2)
 
 else:
-    print("Error, try again")
+    print("Sorry, try again")
